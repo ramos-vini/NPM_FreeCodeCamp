@@ -1,6 +1,7 @@
 {
-	"author": "Vinícius Ramos",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Here comes an awesome description",
+	"author": "Vinícius Ramos",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
