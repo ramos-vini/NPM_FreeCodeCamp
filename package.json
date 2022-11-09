@@ -4,6 +4,7 @@
 	"author": "Vinícius Ramos",
 	"keywords": ["freecodecamp", "descriptive", "related", "words"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
